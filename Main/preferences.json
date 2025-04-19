@@ -1,0 +1,23 @@
+{
+	"date_info": {
+		"current_date": {
+			"current_year": 2025,
+			"current_month": 3
+		},
+		"formatting": {
+			"time_zone": "Australia/Melbourne",
+			"date_format": "%Y-%m-%d"
+		}
+	},
+	"graph_format" : {
+		"colour_palette": "pastel",
+		"size (cm)": {
+			"height": 11,
+			"width": 25
+		}
+	},
+	"title_changes": [
+		{"original": "Original Title of eBook Here", "new": "New Title Here"},
+		{"original": "in love with every song you've ever heard", "new": "II"}
+	]
+}
