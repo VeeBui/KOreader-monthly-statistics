@@ -27,6 +27,7 @@ This repo contains the following folders and files, saved in the Main subfolder:
 * If you are familiar with Python, either run the Python script of the Jupyter Notebook.
 * If you are not familiar with Python and installing it makes you cry, download this executable file [here](https://drive.google.com/file/d/1GHxMljtDQgpnmt_rMp_Q108tIVRTtmkI/view?usp=sharing) instead. 
     * This exe is more than a GB in size and takes about 45 seconds to run. It was created using Pyinstaller using the instructions found in [this webpage](https://www.datacamp.com/tutorial/two-simple-methods-to-convert-a-python-file-to-an-exe-file). I have no idea what was done to make this exe but I have tested it on my sister's PC. You do not need to install Python to make this work, but you run it at your own potential risk.
+    * Simply download it, unzip and the copy the executable into the Main folder
 
 ![File Structure](FileStructure.png)
 
