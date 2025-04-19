@@ -1,5 +1,5 @@
 # KOreader-monthly-statistics
-A python script to display the pages read from each book in a month 
+A python script to display the pages read from each book through your KOreader in a month. The pages are not based on the physical book's page count, but instead is the screen of your device.
 
 
 ## Included Files:
